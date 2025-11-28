@@ -141,15 +141,18 @@ This section will be used to track visual progress throughout the project.
 *(Will be updated once CMake structure is finalised)*
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+```bash
+git clone https://github.com/yourusername/yourrepo.git
+ ```
 2. Ensure Raylib is installed or included.
 
 3. Compile the project (example using g++):
 
 ```bash
-    g++ src/main.cpp -o RogueArena -lraylib```
+g++ src/main.cpp -o RogueArena -lraylib
+```
 
 4. Run the game:
 ```bash 
-    ./RogueArena```
+./RogueArena
+```
